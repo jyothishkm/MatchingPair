@@ -1,0 +1,69 @@
+{
+  "QUESTION": [
+    {
+      "q_data": "Bed"
+    },
+
+    {
+      "q_data": "Tooth"
+
+    },
+
+    {
+       "q_data": "Home"
+
+    },
+
+    {
+      "q_data": "Break"
+
+    }
+
+  ],
+
+  "ANSWER": [
+
+      {
+         "a_data": "brush"
+
+      },
+
+      {
+         "a_data": "fast"
+
+      },
+
+       {
+          "a_data": "room"
+
+       },
+
+      {
+        "a_data": "work"
+      }
+
+    ],
+  "ANSWERLIST": [
+
+    {
+      "c_data": "Toothbrush"
+
+    },
+
+    {
+      "c_data": "Breakfast"
+
+    },
+
+    {
+      "c_data": "Bedroom"
+
+    },
+
+    {
+      "c_data": "Homework"
+    }
+
+  ]
+
+}
